@@ -18,11 +18,11 @@ http://www.tenki.jp/leisure/golf/5/25/55002-10days.html
 http://weather.yahoo.co.jp/weather/leisure/golf/22/55002.html
 
 #集合
-7:15東村山=田村、石橋  
-8:00国分寺=倉橋、服部  
-x：xx船堀とか？清水＆大谷  
-9:30談合坂で全員集合=桐生、桐生（弟）、冨川  
-午後？現地ダイレクト=佐藤恭一  
+7:15 東村山=田村、石橋   
+8:00 国分寺=倉橋、服部   
+x：xx 船堀とか？清水＆大谷   
+9:30 談合坂で全員集合=桐生、桐生（弟）、冨川   
+午後？現地ダイレクト 佐藤恭一  
 
 集合後、フォレストモール富士河口湖で仕入れ
 http://fujikawaguchiko.forest-mall.com/  
