@@ -87,5 +87,6 @@ http://asagiri-camp.net/charge.html
 |山中湖温泉紅富士の湯| http://www.benifuji.co.jp/ |3.8|ちょっと遠い|
 |山中湖平野温泉・石割の湯| http://www.ishiwarinoyu.jp/ |3.5|まあふつう|
 |時之栖 須走温泉 天恵| http://www.tokinosumika.com/tenkei/ |3.8|ふつう|
-
-https://goo.gl/maps/Q9pPkyADcm82
+|富嶽温泉 花の湯|http://www.tokinosumika.com/hananoyu/hotspa/ |3.9|ただのスーパー温泉。いまいちでした|
+ 
+ 分布地図: https://goo.gl/maps/Q9pPkyADcm82
