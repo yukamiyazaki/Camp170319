@@ -4,6 +4,7 @@
 # 会場
 朝霧ジャンボリーオートキャンプ場  
 http://asagiri-camp.net/  
+http://camphack.nap-camp.com/1659  
 地図 = https://goo.gl/maps/fSLcJXqY7k72
 
 # 参加者
