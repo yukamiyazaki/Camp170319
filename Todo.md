@@ -21,7 +21,7 @@ http://camphack.nap-camp.com/1659
 - 前日(3/18)午前中判断。
 - 中止判断基準 = 3/19AM〜3/20AM期間中の降水確率60%以上、風速5m以上
    - 3/17 13:30(JST)現在、かなり好転。
-- ソースは以下を総合。   
+- ソースは以下を総合。    
 http://www.tenki.jp/leisure/golf/5/25/55002-10days.html
 http://weather.yahoo.co.jp/weather/leisure/golf/22/55002.html
 
@@ -34,7 +34,7 @@ http://weather.yahoo.co.jp/weather/leisure/golf/22/55002.html
 |09:30|談合坂で全員集合|桐生、桐生（弟）、冨川| 
 |午後？|現地ダイレクト|佐藤恭一|
 
-集合後、フォレストモール富士河口湖で仕入れ
+集合後、フォレストモール富士河口湖で仕入れ  
 http://fujikawaguchiko.forest-mall.com/  
 地図 = https://goo.gl/maps/jnQd7ypQdgo
 
