@@ -52,7 +52,8 @@ http://fujikawaguchiko.forest-mall.com/
 # 食事
 酒含めて現地近場調達が基本。  
 とりあえず肉は焼くだろう  
-鍋やるんだったら鶏団子とかどうでしょうか。
+鍋やるんだったら鶏団子とかどうでしょうか。  
+https://docs.google.com/spreadsheets/d/1-9YB_9uo-S0924yHm8BWFMSrWqPGMgO2SQWyg46h8mY/htmlview
 
 # 精算について
 当日、キャンプ場利用料金として、2000円を現金でご用意ください。（お釣りが無いように！！）   
