@@ -92,3 +92,11 @@ http://asagiri-camp.net/charge.html
 |富嶽温泉 花の湯|http://www.tokinosumika.com/hananoyu/hotspa/ |3.9|ただのスーパー温泉。いまいちでした|
  
  分布地図: https://goo.gl/maps/Q9pPkyADcm82
+ 
+ #精算
+ 食材リスト
+ https://docs.google.com/spreadsheets/d/1-9YB_9uo-S0924yHm8BWFMSrWqPGMgO2SQWyg46h8mY/htmlview
+ 交通費は各自均等になるように石橋さんが計算してくれます
+ 食材でないもの、食材だけどGにアカウントが無いなどで食材リストに書けない場合は、MYMに金額を記載してください
+ 3/29（水）以降で申告が落ち着いたころ、幹事の方で計算します。
+  
